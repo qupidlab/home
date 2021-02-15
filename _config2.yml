@@ -129,7 +129,7 @@ assets:
   # url: the CDN url (fqdn, or w/ identifier).
   # --
   cdn:
-   url: "https://https://qupidlab.github.io"
+   url: "https://https://qupidlab.github.io/home"
     baseurl: ""
     destination: false
     : null
